@@ -1,0 +1,25 @@
+h2{
+    color:rgb(76, 0, 255)
+
+   }
+  
+  h1{
+      color:red
+  }
+   
+  
+
+ 
+
+   .pic1{
+    display:flex;
+    justify-content:flex-end;
+    border:solid rgb(255, 0, 0);
+    border-radius: 50px;
+
+   }
+   .pic1{
+    border:solid black;
+    border-radius: 50px;
+
+   }
